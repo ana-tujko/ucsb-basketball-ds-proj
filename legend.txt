@@ -1,0 +1,25 @@
+LEGEND
+--------
+
+* GP = games played
+* GS = games started (# of times a player's name appears in the starting lineup during a season)
+* MIN = average minutes player spends on court during a game 
+* FG = field goal (shot made on the court that's not a free throw)
+* FGA = field goals attempted
+* 3FG = three-point field goal
+* 3FGA = three-point field goals attempted 
+* FT = free throw
+* FTA = free throws attempted 
+* OFF = offensive rebound (offensive player catches ball that missed goal and does not change possession)
+* DF = defensive rebound (defensive player catches ball and the defending team regains possession)
+* TOT = total rebounds 
+
+Positions in Basketball:
+* PF = power forward 
+* DQ = disqualification (player sent to bench due to breaking a rule)
+* A = attempts, shots taken towards the basket
+* TO = turnovers (number of times player or team loses possession of the ball)
+* BLK = blocked shots (number of times a player deflects ball while opponent takes a shot)
+* STL = steals (number of times a player deflects ball without shot being attempted)
+* PTS = points scored 
+
